@@ -28,7 +28,7 @@ form {
 button {
   width: 100px;
   height: 100px;
-  box-shadow: 0 10px 10px black;
+  box-shadow: 0 20 px 20px g(243, 242, 242);
 }
 
 input {
